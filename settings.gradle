@@ -1,0 +1,4 @@
+rootProject.name = 'charon'
+include 'api'
+include 'loadtester'
+
